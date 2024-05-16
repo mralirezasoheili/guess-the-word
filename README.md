@@ -24,7 +24,7 @@
 </p>
 
 <div align="center">
-<img src="https://github.com/mralirezasoheili/guess-the-word/blob/master/art/shot1.png" alt="first screen shot from the application" width="300" />
+<img src="https://github.com/mralirezasoheili/guess-the-word/blob/master/art/shot1.png" alt="first screen shot from the application" width="300" /> &(emsp);
 <img src="https://github.com/mralirezasoheili/guess-the-word/blob/master/art/shot2.png" alt="second screen shot from the application" width="300" />
 </div>
 
