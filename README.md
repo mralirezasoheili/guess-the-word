@@ -24,10 +24,9 @@
 </p>
 
 <div align="center">
-<img src="https://github.com/mralirezasoheili/guess-the-word/blob/master/art/shot1.png" alt="first screen shot from the application" width="60%" height="70%" />
-<img src="https://github.com/mralirezasoheili/guess-the-word/blob/master/art/shot2.png" alt="second screen shot from the application" width="60%" height="70%" />
+<img src="https://github.com/mralirezasoheili/guess-the-word/blob/master/art/shot1.png" alt="first screen shot from the application" width="250" />
+<img src="https://github.com/mralirezasoheili/guess-the-word/blob/master/art/shot2.png" alt="second screen shot from the application" width="250" />
 </div>
-![first screen shot from the application](https://github.com/mralirezasoheili/guess-the-word/blob/master/art/shot1.png "first shot") ![second screen shot from the application](https://github.com/mralirezasoheili/guess-the-word/blob/master/art/shot2.png "second shot")
 
 ### The following topics are utilized in this amazing program:
 * **Using SVG files** instead of PNG and JPG formats to **reduce the size** of the program
