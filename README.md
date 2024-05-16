@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-The following topics are used in this amazing program:
+### The following topics are used in this amazing program:
 * Using svg files instead of png and jpg formats to increase the size of the program
 * Using tools to work with time
 * Using the ViewModel
