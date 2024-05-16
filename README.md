@@ -20,9 +20,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+<p align="center">
+<img src="https://github.com/mralirezasoheili/guess-the-word/blob/master/art/app.png" alt="screen shot from the application" width="60%" height="70%" />
+</p>
 
-<img src="https://github.com/mralirezasoheili/guess-the-word/blob/master/art/app.png" alt="screen shot from the application" width="60%" height="70%" align="center" />
-
+<p align="center">
 The following topics are used in this amazing program:
 1. Using svg files instead of png and jpg formats to increase the size of the program
 2. Using tools to work with time
@@ -34,6 +36,4 @@ The following topics are used in this amazing program:
 8. Using data binding
 9. Application of functional programming
 10. Etc...
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+</p>
