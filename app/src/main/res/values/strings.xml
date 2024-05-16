@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Guess The Word</string>
+    <string name="enter_your_text">Enter Your Text</string>
+    <string name="random_text">Random Text</string>
+    <string name="correct_answer">Answer: </string>
+    <string name="right_answer">the Answer</string>
+    <string name="check">Check</string>
+    <string name="yes">Yes</string>
+    <string name="maybe_later">Maybe Later</string>
+    <string name="coins">coins</string>
+    <string name="go_to_new_word">go to new word</string>
+    <string name="show_the_answer">show the answer</string>
+    <string name="dialog_icon">dialog icon</string>
+    <string name="greeting_text">Welcome to the \'Guess The Word\' Application.\nIn this application if you can guess the word in less than 3 seconds, you will get 3 coins, and if you can guess the word in less than 8 seconds, you will get 2 coins and for more than 8 second you will get 1 coin.</string>
+    <string name="ok">OK</string>
+    <string name="gift_icon">gift icon</string>
+</resources>

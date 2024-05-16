@@ -1,0 +1,12 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/light_blue" android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <corners android:radius="15dp" />
+        </shape>
+    </item>
+    <item android:drawable="@color/blue">
+        <shape android:shape="rectangle">
+            <corners android:radius="15dp" />
+        </shape>
+    </item>
+</selector>
