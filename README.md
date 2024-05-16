@@ -23,10 +23,10 @@
 <p align="center"> In this project, out of hundreds of names in the Json file, a name is selected randomly and then the order of the name is changed and you have to guess that name.</br>If you can guess under 3 seconds, you'll get 3 coins and if you can guess in less than 8 seconds, you'll get 2 coins and for  more than 8 seconds, you'll get a coin.</br><b>Lets Enjoy!</b>
 </p>
 
-<p align="center">
+<div>
 <img src="https://github.com/mralirezasoheili/guess-the-word/blob/master/art/shot1.png" alt="first screen shot from the application" width="60%" height="70%" />
 <img src="https://github.com/mralirezasoheili/guess-the-word/blob/master/art/shot2.png" alt="second screen shot from the application" width="60%" height="70%" />
-</p>
+</div>
 
 ### The following topics are utilized in this amazing program:
 * **Using SVG files** instead of PNG and JPG formats to **reduce the size** of the program
