@@ -20,7 +20,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<p align="center"> In this project, out of hundreds of names in the Json file, a name is selected randomly and then the order of the name is changed and you have to guess that name.</br>If you can guess under 3 seconds, you'll get 3 coins and if you can guess in less than 8 seconds, you'll get 2 coins and for  more than 8 seconds, you'll get a coin.<b>Lets Enjoy!</b>
+<p align="center"> In this project, out of hundreds of names in the Json file, a name is selected randomly and then the order of the name is changed and you have to guess that name.</br>If you can guess under 3 seconds, you'll get 3 coins and if you can guess in less than 8 seconds, you'll get 2 coins and for  more than 8 seconds, you'll get a coin.</br><b>Lets Enjoy!</b>
 </p>
 
 <p align="center">
