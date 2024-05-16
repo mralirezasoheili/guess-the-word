@@ -21,7 +21,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Guess The Name Screen Shot][product-screenshot]](https://github.com/mralirezasoheili/guess-the-word/blob/master/art/app.png)
+<img src="https://github.com/mralirezasoheili/guess-the-word/blob/master/art/app.png" alt="screen shot from the application" />
 
 The following topics are used in this amazing program:
 1. Using svg files instead of png and jpg formats to increase the size of the program
