@@ -26,14 +26,14 @@
 
 <p align="center">
 The following topics are used in this amazing program:
-1. Using svg files instead of png and jpg formats to increase the size of the program
-2. Using tools to work with time
-3. Using the ViewModel
-4. Use sharedPreferences
-5. Using the Gson library to work with json files
-6. Use customized dialogs
-7. Designed for both portrait and landscape mode
-8. Using data binding
-9. Application of functional programming
-10. Etc...
+* Using svg files instead of png and jpg formats to increase the size of the program
+* Using tools to work with time
+* Using the ViewModel
+* Use sharedPreferences
+* Using the Gson library to work with json files
+* Use customized dialogs
+* Designed for both portrait and landscape mode
+* Using data binding
+* Application of functional programming
+* Etc...
 </p>
