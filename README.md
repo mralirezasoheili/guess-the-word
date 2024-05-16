@@ -27,16 +27,16 @@
 <img src="https://github.com/mralirezasoheili/guess-the-word/blob/master/art/app.png" alt="screen shot from the application" width="60%" height="70%" />
 </p>
 
-### The following topics are used in this amazing program:
-* Using svg files instead of png and jpg formats to increase the size of the program
-* Using tools to work with time
-* Using the ViewModel
-* Use sharedPreferences
-* Using the Gson library to work with json files
-* Use customized dialogs
-* Designed for both portrait and landscape mode
-* Using data binding
-* Application of functional programming
+### The following topics are utilized in this amazing program:
+* **Using SVG files** instead of PNG and JPG formats to **reduce the size** of the program
+* **Utilizing tools** to work with time
+* **Employing the ViewModel**
+* **Using SharedPreferences**
+* **Utilizing the Gson library** to work with JSON files
+* **Using customized dialogs**
+* **Designed for both portrait and landscape modes**
+* **Applying Data Binding**
+* **Implementing functional programming**
 * Etc...
 
 ### Have a nice day &#128521;
