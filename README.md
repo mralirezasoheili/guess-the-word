@@ -20,6 +20,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+<p align="center"> In this project, out of hundreds of names in the Json file, a file is randomly selected and the order of the name is changed and you have to guess that name. If you can guess under 3 seconds, you'll get 3 coins and if you can guess in less than 8 seconds, you'll get 2 coins and for  more than 8 seconds, you'll get a coin.
+Lets Enjoy!
+</p>
 <p align="center">
 <img src="https://github.com/mralirezasoheili/guess-the-word/blob/master/art/app.png" alt="screen shot from the application" width="60%" height="70%" />
 </p>
@@ -36,4 +39,4 @@
 * Application of functional programming
 * Etc...
 
-### Have Nice Day ;-)
+### Have a nice day &#128521;
